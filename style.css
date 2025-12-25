@@ -86,4 +86,8 @@ th {
 th, td {
   padding: 10px;
 }
+iframe {
+  margin-top: 10px;
+  border-radius: 6px;
+}
 
