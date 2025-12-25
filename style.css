@@ -63,3 +63,19 @@ footer {
   color: #666;
   text-align: center;
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+}
+
+th {
+  background-color: #f1f5ff;
+  text-align: left;
+}
+
+th, td {
+  padding: 10px;
+}
+
