@@ -91,4 +91,12 @@ iframe {
   border-radius: 6px;
   margin-top: 15px;
 }
+hr {
+  margin: 40px 0;
+}
+
+iframe {
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
 
