@@ -112,3 +112,37 @@ iframe {
   margin: 8px 0 0;
 }
 
+/* ===== Hero Section ===== */
+.hero {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.hero-en {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+/* Buttons */
+.hero-buttons {
+  margin-top: 20px;
+}
+
+.hero-buttons a {
+  display: inline-block;
+  margin: 10px;
+  padding: 12px 20px;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.btn-primary {
+  background-color: #1a73e8;
+  color: #ffffff;
+}
+
+.btn-secondary {
+  background-color: #e8f0fe;
+  color: #1a73e8;
+}
