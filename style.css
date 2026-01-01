@@ -172,3 +172,17 @@ iframe {
   font-weight: bold;
 }
 
+nav a {
+  text-decoration: none;
+  padding: 8px 12px;
+  color: #1a73e8;
+  font-weight: 500;
+}
+
+nav a.active {
+  background-color: #1a73e8;
+  color: white;
+  border-radius: 4px;
+}
+
+
